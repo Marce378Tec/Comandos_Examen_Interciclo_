@@ -8,8 +8,8 @@ Documentación paso a paso de la configuración y pruebas de servicios de red so
 * **Dirección IP del Servidor:** `192.168.0.107/24`
 * **Dominio Local:** `jerves-espinoza.lab`
 * **Servicios Desplegados:**
-  * **DNS (BIND):** Puerto `53` (UDP/TCP)
-  * **Web (Apache HTTPD):** Puerto `80` (TCP)
+  * **DNS (BIND)**
+  * **Web (Apache HTTPD)** 
   * **Acceso Remoto (OpenSSH):** Puerto `2222` (TCP)
 * **Usuario de Prueba:** `jerves_espinoza`
 
