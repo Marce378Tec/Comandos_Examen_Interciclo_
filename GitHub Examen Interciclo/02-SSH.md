@@ -51,11 +51,11 @@ netsh interface ip set dns name="Wi-Fi 3" dhcp
 
 ## Evidencia
 
-![Creación de usuario SSH](img/04-ssh-usuario.png)
+<img width="1912" height="208" alt="Captura de pantalla 2026-11-21 113503" src="https://github.com/user-attachments/assets/4d563d3f-9f23-45e7-b62c-2c311ada4ae9" />
 
-![Estado de sshd y firewall](img/04-ssh-status.png)
+<img width="1283" height="613" alt="Captura de pantalla 2026-11-22 002046" src="https://github.com/user-attachments/assets/7f3f123e-b918-4be8-b11a-d8c77b94b4f8" />
 
-![Conexión SSH y transferencia SCP](img/04-ssh-scp.png)
+<img width="1477" height="646" alt="Captura de pantalla 2026-11-20 214932" src="https://github.com/user-attachments/assets/5c8b89db-b6ee-4a48-ae1d-05b6349e0440" />
 
 ## Posibles errores y soluciones
 
