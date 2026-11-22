@@ -25,10 +25,3 @@ En esta sección se evidencia la administración remota del servidor CentOS desd
 2. **[Configuración de Servidor DNS (BIND)](GitHub%20Examen%20Interciclo/02-DNS.md)** — Instalación, archivo de zona directa, permisos SELinux, pruebas `nslookup` desde Windows y solución de errores.
 3. **[Configuración de Servidor Web HTTP (Apache)](GitHub%20Examen%20Interciclo/03-HTTP.md)** — Despliegue de página HTML personalizada, ajustes de firewall/SELinux y solución de errores.
 4. **[Acceso Remoto (SSH) y Transferencia (SCP)](GitHub%20Examen%20Interciclo/04-SSH_TCP.md)** — Creación de usuario, conexión por puerto `2222`, transferencia de archivos con `scp`, limpieza de huella y solución de errores.
-
-## Contenido del Repositorio
-
-1. **[Verificación de Red, Ping y Respaldos](GitHub%20Examen%20Interciclo/01-Ping.md)** — Comprobación de interfaz IPv4, conectividad a Internet (`8.8.8.8`) y verificación de respaldos `.bak`.
-2. **[Configuración de Servidor DNS (BIND)](GitHub%20Examen%20Interciclo/02-DNS.md)** — Instalación, archivo de zona directa, permisos SELinux, pruebas `nslookup` desde Windows y solución de errores.
-3. **[Configuración de Servidor Web HTTP (Apache)](GitHub%20Examen%20Interciclo/03-HTTP.md)** — Despliegue de página HTML personalizada, ajustes de firewall/SELinux y solución de errores.
-4. **[Acceso Remoto (SSH) y Transferencia (SCP)](GitHub%20Examen%20Interciclo/04-SSH_TCP.md)** — Creación de usuario, conexión por puerto `2222`, transferencia de archivos con `scp`, limpieza de huella y solución de errores.
