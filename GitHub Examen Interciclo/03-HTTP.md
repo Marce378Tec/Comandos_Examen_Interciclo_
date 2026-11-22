@@ -112,11 +112,9 @@ http://jerves-espinoza.lab
 
 ## Evidencia
 
-![Despliegue Apache en terminal](img/03-http-terminal.png)
-*(Coloca aquí la sexta captura: permisos, `restorecon`, inicio de `httpd` y apertura de firewall)*
+<img width="1917" height="1020" alt="Captura de pantalla 2026-11-21 113244" src="https://github.com/user-attachments/assets/4e6a8320-df8b-4250-9ab6-72783e54cb13" />
 
-![Página cargada en navegador](img/03-http-navegador.png)
-*(Coloca aquí la séptima captura: página cargada en el navegador)*
+<img width="1917" height="1017" alt="Captura de pantalla 2026-11-20 221932" src="https://github.com/user-attachments/assets/9190a096-0066-4fb3-8c21-1c3d0ce94e86" />
 
 ## Posibles errores y soluciones
 
