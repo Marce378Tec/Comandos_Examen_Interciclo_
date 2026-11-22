@@ -45,11 +45,9 @@ netsh interface ip set dns name="Wi-Fi 3" dhcp
 
 ## Evidencia
 
-![Creación de usuario SSH](img/04-ssh-usuario.png)
-*(Coloca aquí la quinta captura: comandos `useradd` y `passwd`)*
+<img width="1912" height="208" alt="Captura de pantalla 2026-11-21 113503" src="https://github.com/user-attachments/assets/d1d0252e-9b40-48e6-ad5b-cf8872eabfd9" />
 
-![Estado de sshd y firewall](img/04-ssh-status.png)
-*(Coloca aquí la octava captura: `firewall-cmd --list-all` y `systemctl status sshd`)*
+<img width="1283" height="613" alt="Captura de pantalla 2026-11-22 002046" src="https://github.com/user-attachments/assets/c643eafe-bcc6-41f4-bfcd-273764ebf7b7" />
 
 ## Posibles errores y soluciones
 
