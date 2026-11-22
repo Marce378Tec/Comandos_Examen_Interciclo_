@@ -96,11 +96,9 @@ netsh interface ip set dns name="Wi-Fi 3" dhcp
 
 ## Evidencia
 
-![Configuración zona DNS](img/02-dns-servidor.png)
-*(Coloca aquí la primera captura: creación de zona y `named-checkzone` OK)*
+<img width="1645" height="886" alt="Captura de pantalla 2026-11-21 112720" src="https://github.com/user-attachments/assets/deaee655-c359-4e33-9778-02b61837009f" />
 
-![Pruebas nslookup en Windows](img/02-dns-windows.png)
-*(Coloca aquí la tercera captura: PowerShell ejecutando `nslookup`)*
+<img width="1102" height="633" alt="Captura de pantalla 2026-11-21 112825" src="https://github.com/user-attachments/assets/f4c1f0d0-8ac8-4c4f-af3c-77af2f5b4aa0" />
 
 ## Posibles errores y soluciones
 
